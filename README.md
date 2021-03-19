@@ -4,10 +4,10 @@ ABM simple creado en Node js con Express y MongoDB.
 
 ## Dependencias
 
--Express
--Morgan
--Mongoose
--Nodemon
+- Express
+- Morgan
+- Mongoose
+- Nodemon
 
 ## Prerequisites
 
