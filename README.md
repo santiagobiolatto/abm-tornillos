@@ -9,15 +9,13 @@ ABM simple creado en Node js con Express y MongoDB.
 -Mongoose
 -Nodemon
 
-
 ## Prerequisites
 
 ### MongoDB
 
 Descarga:
-```bash
-https://www.mongodb.com/try/download/community
-```
+
+`https://www.mongodb.com/try/download/community`
 
 Agregar el directorio al PATH en windows:
 
