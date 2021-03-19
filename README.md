@@ -47,10 +47,12 @@ mongoimport --db=abm-tornillos --collection=tornillos --file=tornillos.json
 ## Iniciar server de node
 
 ```bash
+cd src
 node main.js
 ```
 o
 ```bash
+cd src
 nodemon main.js
 ```
 
