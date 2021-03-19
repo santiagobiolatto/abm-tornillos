@@ -1,0 +1,6 @@
+{"_id":{"$oid":"60542659853c3e3190d08963"},"nombre":"Tornillo Allen Cabeza Cilíndrica 12.9","diametro":6,"longitud":45,"rosca":"Métrica","cabeza":"Cilindrica","claseCabeza":"Allen","material":"Acero aleado de Alta Resistencia","__v":0}
+{"_id":{"$oid":"6054270e853c3e3190d08964"},"nombre":"Autoperforante Cabeza Fijadora Mecha","diametro":10,"longitud":65,"rosca":"En diente de sierra","cabeza":"Fijadora ","claseCabeza":"Phillips","material":"Acero inoxidable","__v":0}
+{"_id":{"$oid":"60542795c881d65ae40567a5"},"nombre":"Tornillos Cabeza Redonda","diametro":8,"longitud":45,"rosca":"Métrica","cabeza":"Redonda","claseCabeza":"Fresada","material":"Acero SAE 1010","__v":0}
+{"_id":{"$oid":"605427c2c881d65ae40567a6"},"nombre":"Tornillos Cabeza Fresada","diametro":12,"longitud":65,"rosca":"Métrica","cabeza":"Plana","claseCabeza":"Phillips","material":"Acero SAE 1010","__v":0}
+{"_id":{"$oid":"60542840c881d65ae40567a7"},"nombre":"Tornillo Drywall Para Madera","diametro":8,"longitud":75,"rosca":"En diente de sierra","cabeza":"Plana","claseCabeza":"Phillips","material":"Acero al carbono SAE 1010/1020","__v":0}
+{"_id":{"$oid":"605428adc881d65ae40567a8"},"nombre":"Tornillos Cabeza Hexagonal Tipo Nery","diametro":14,"longitud":55,"rosca":"Whitworth","cabeza":"Hexagonal","claseCabeza":"Allen","material":"Acero SAE 1010","__v":0}
