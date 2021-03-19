@@ -20,9 +20,8 @@ https://www.mongodb.com/try/download/community
 ```
 
 Agregar el directorio al PATH en windows:
-```bash
-C:\Program Files\MongoDB\Server\**version**\bin>
-```
+
+`C:\Program Files\MongoDB\Server\"version"\bin>`
 
 Levantar el server de mongo en la terminal:
 ```bash
@@ -31,17 +30,16 @@ mongod
 
 ### MongoDB Tools
 
-Para importar los datos de prueba ** tornillos.json **
+Para importar los datos de prueba **tornillos.json**
 
 Descarga:
-```bash
-https://www.mongodb.com/try/download/database-tools
-```
+
+`https://www.mongodb.com/try/download/database-tools`
 
 Agregar el directorio al PATH en windows:
-```bash
-C:\Program Files\MongoDB\Tools\**version**\bin>
-```
+
+`C:\Program Files\MongoDB\Tools\"version"\bin>`
+
 
 Importar los datos de prueba a mongo
 ```bash
@@ -58,4 +56,4 @@ o
 nodemon main.js
 ```
 
-Visitar `http://localhost:3000` para el ejemplo.
+Visitar [http://localhost:3000](http://localhost:3000) para el ejemplo.
